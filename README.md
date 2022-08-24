@@ -18,3 +18,6 @@ Choose either between (Most secure is on the top, least is on the bottom)
 10. Twofish
 11. Serpent
 12. AES
+
+## Notes
+You need botan for this to work. I'm working on the installer
