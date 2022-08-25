@@ -6,7 +6,7 @@ You can choose which method you want to encrypt your files with.
 
 Choose either between (Most secure is on the top, least is on the bottom)
 
-1. Twofish + AES + Serpent + Serpent + AES + Twofish
+1. Twofish + Fernet + AES + Serpent + Serpent + AES + Fernet + Twofish
 2. Twofish + AES + Serpent + AES + Twofish
 3. Twofish + Serpent + Twofish
 4. AES + Serpent + AES
